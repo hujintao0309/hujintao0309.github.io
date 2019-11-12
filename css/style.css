@@ -417,7 +417,7 @@ body {
   #nexmoe-content .nexmoe-primary {
     width: 100%;
     position: relative;
-    min-height: 100vh;
+    min-height: 0vh;
   }
   #nexmoe-content .nexmoe-secondary {
     display: none;
